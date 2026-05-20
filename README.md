@@ -2,6 +2,8 @@
 
 在 GitHub 上申请免费的 VPS。
 
+> 图文教程：https://mp.weixin.qq.com/s/vnA2AXD5zXiXGJNPdNH0BA
+
 ## 创建示例
 
 ### Ubuntu
